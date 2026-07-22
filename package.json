@@ -1,0 +1,14 @@
+{
+  "name": "repro-nuxt-viewport-cookiejs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "4.5.0",
+    "nuxt-viewport": "2.4.0"
+  }
+}
